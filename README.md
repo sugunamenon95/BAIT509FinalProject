@@ -2,7 +2,7 @@
 
 #### Contributors: Anh Nguyen, Suguna Menon, Raymond Hu
 
-This project uses data related to the applicants' profile to predict the chance of admission in a specific graduate school.
+This project uses data related to the applicants' profile to predict his/her chance of admission in a specific graduate school.
 
 *Business question*: The business problem of our client, Education Consultant Agency (ECA), is to predict how likely a student will be admitted into a desired university. This is useful for ECA’s clients to shortlist their targeted universities with their profiles. In addition, with the model, ECA’s clients can know which areas are important to admission so that they should focus on improving.
 
