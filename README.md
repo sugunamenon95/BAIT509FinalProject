@@ -1,4 +1,4 @@
-# BAIT509FinalProject
+# BAIT 509 Final Project
 
 #### Contributors: Anh Nguyen, Suguna Menon, Raymond Hu
 
